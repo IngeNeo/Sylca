@@ -1,3 +1,3 @@
 # Sylca
 Proyecto Sitio Web Inmobiliario
-Desarrollado en Boostrap
+Desarrollado en Boostrap 5
